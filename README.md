@@ -16,8 +16,8 @@ A webpage made with HTML, CSS, and Bootstrap that showcases my current work as a
 
 #### Open with Bash/GitBash:
 1. Clone this repository onto your computer
-`https://github.com/keidsvik/independent-project-06052020`
-2. Navigate to the `independent-project-06052020` directory in your preferred text editor:
+`https://github.com/keidsvik/independent-project-05292020`
+2. Navigate to the `independent-project-05292020` directory in your preferred text editor:
 `code`.
 3. Open index.html in preferred browser:
 `open index.html`
