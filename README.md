@@ -10,6 +10,8 @@ A webpage made with HTML, CSS, and Bootstrap that showcases my current work as a
 
 ## Setup/Installation Requirements
 
+#### View on GH pages [here](https://keidsvik.github.io/independent-project-05292020/)
+
 #### Open by downloading:
 1. Download or clone this repository from GitHub [here](https://github.com/keidsvik/independent-project-05292020)
 2. Once on your machine, double-click on index.html to open in your default browser.
